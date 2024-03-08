@@ -4,7 +4,8 @@ I love Netflix! Everyone does?
 
 This project aims to build a movie recommendation mechanism within Netflix.It has more than 2 crore data.
 
-**Objective**
+
+--**Objective**--
 
 Data manipulation
 
@@ -17,11 +18,11 @@ Recommendation models
 
 Recommend with SVD
 
-**Objective**
+--**Objective**--
 
 Learn from data and recommend best TV shows to users, based on self & others behaviour
 
-**Data loading**
+--**Data loading**--
 
 It has 3 columns mentioned below:-
 
